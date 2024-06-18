@@ -1,0 +1,3 @@
+Upload to Google Drive or OneDrive then redownload the file
+
+Use the download manager in firefox to copy the direct link, then provide that to the action
